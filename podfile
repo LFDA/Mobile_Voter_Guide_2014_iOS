@@ -1,0 +1,4 @@
+# FMDB Sqlite library
+pod 'FMDB'
+pod 'STHTTPRequest'
+pod 'FileMD5Hash'

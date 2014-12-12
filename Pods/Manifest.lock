@@ -1,0 +1,20 @@
+PODS:
+  - FileMD5Hash (2.0.0)
+  - FMDB (2.4):
+    - FMDB/standard
+  - FMDB/common (2.4)
+  - FMDB/standard (2.4):
+    - FMDB/common
+  - STHTTPRequest (1.0.2)
+
+DEPENDENCIES:
+  - FileMD5Hash
+  - FMDB
+  - STHTTPRequest
+
+SPEC CHECKSUMS:
+  FileMD5Hash: 297c3ee6e7b800a198b6c372b6b7641cab5cf12c
+  FMDB: 0b2fa25e5264ef177973c0cb8c02c711107979aa
+  STHTTPRequest: 9aee3fd1557dcaa380198a9e56d36527ede342d1
+
+COCOAPODS: 0.34.1
